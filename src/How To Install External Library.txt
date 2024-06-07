@@ -1,0 +1,13 @@
+Inside this project directory, there is a folder called "java-fx-sdk-22.0.1". This is where the JavaFX folder/library is located.
+
+Installing using IntelliJ:
+1. Head over to the top-left corner of the screen, and click on the button with three lines. This will open up a small widget.
+2. Make sure you're in the 'Files' tab. Click on the button that says 'Project Structure'.
+3. Head over to Project Settings > Libraries (or Platform Settings > Global Libraries).
+4. Click on the plus icon (the one with the 'add libraries' tool tip) and select Java
+5. Go to the JavaFX folder, and open a folder called 'lib'
+6. Select all the JAR files, and click on OK.
+7. Allow IntelliJ to add the library to the VideoTest module.
+8. Click on apply/ok at the bottom of the screen to apply changes.
+
+View the MP4 video file inside of the src folder for visual guide.
